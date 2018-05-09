@@ -1,0 +1,15 @@
+<component name="ArtifactManager">
+  <artifact name="SParkMLibDemo:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SParkMLibDemo_jar</output-path>
+    <root id="root">
+      <element id="archive" name="SParkMLibDemo.jar">
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+        </element>
+        <element id="module-output" name="SParkMLibDemo" />
+      </element>
+      <element id="library" level="application" name="scala-sdk-2.12.51" />
+      <element id="library" level="project" name="jars" />
+    </root>
+  </artifact>
+</component>

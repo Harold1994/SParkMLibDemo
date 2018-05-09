@@ -1,0 +1,88 @@
+Manifest-Version: 1.0
+Class-Path: scala-library.jar scala-parser-combinators_2.12-1.0.7.jar 
+ scala-xml_2.12-1.0.6.jar scala-swing_2.12-2.0.0.jar scala-reflect.jar
+  xz-1.0.jar jta-1.1.jar jpam-1.1.jar ST4-4.0.4.jar guice-3.0.jar ivy-
+ 2.4.0.jar oro-2.0.8.jar avro-1.7.7.jar core-1.1.2.jar gson-2.2.4.jar 
+ hppc-0.7.2.jar snappy-0.2.jar antlr-2.7.7.jar jsp-api-2.1.jar okio-1.
+ 13.0.jar opencsv-2.3.jar py4j-0.10.6.jar xmlenc-0.52.jar base64-2.3.8
+ .jar guava-14.0.1.jar janino-3.0.8.jar jets3t-0.9.4.jar jetty-6.1.26.
+ jar jline-2.12.1.jar jsr305-1.3.9.jar log4j-1.2.17.jar minlog-1.3.0.j
+ ar okhttp-3.8.1.jar stream-2.7.0.jar generex-1.0.1.jar jdo-api-3.0.1.
+ jar objenesis-2.1.jar paranamer-2.8.jar pyrolite-4.13.jar scalap-2.11
+ .8.jar JavaEWAH-0.3.2.jar avro-ipc-1.7.7.jar commons-io-2.4.jar httpc
+ ore-4.4.8.jar javax.inject-1.jar jaxb-api-2.2.2.jar libfb303-0.9.3.ja
+ r lz4-java-1.4.0.jar snakeyaml-1.15.jar stax-api-1.0-2.jar stax-api-1
+ .0.1.jar aopalliance-1.0.jar commons-cli-1.2.jar commons-net-2.2.jar 
+ derby-10.12.1.1.jar joda-time-2.9.3.jar jodd-core-3.5.2.jar libthrift
+ -0.9.3.jar super-csv-2.2.0.jar zookeeper-3.4.6.jar activation-1.1.1.j
+ ar automaton-1.11-8.jar chill-java-0.8.4.jar chill_2.11-0.8.4.jar com
+ mons-dbcp-1.4.jar commons-lang-2.6.jar httpclient-4.5.4.jar javolutio
+ n-5.5.1.jar slf4j-api-1.7.16.jar xercesImpl-2.9.1.jar zjsonpatch-0.3.
+ 0.jar zstd-jni-1.3.2-2.jar aircompressor-0.8.jar antlr-runtime-3.4.ja
+ r commons-lang3-3.5.jar guice-servlet-3.0.jar hadoop-auth-2.7.3.jar h
+ adoop-hdfs-2.7.3.jar hk2-api-2.4.0-b34.jar jackson-xc-1.9.13.jar jett
+ y-util-6.1.26.jar jtransforms-2.4.0.jar kryo-shaded-3.0.3.jar metrics
+ -jvm-3.1.5.jar netty-3.9.9.Final.jar spire_2.11-0.13.0.jar antlr4-run
+ time-4.7.jar api-util-1.0.0-M20.jar arrow-format-0.8.0.jar arrow-memo
+ ry-0.8.0.jar arrow-vector-0.8.0.jar breeze_2.11-0.13.2.jar commons-co
+ dec-1.10.jar commons-pool-1.5.4.jar compress-lzf-1.0.3.jar jackson-co
+ re-2.6.7.jar leveldbjni-all-1.8.jar metrics-core-3.1.5.jar metrics-js
+ on-3.1.5.jar bcprov-jdk15on-1.58.jar commons-math3-3.4.1.jar hadoop-c
+ lient-2.7.3.jar hadoop-common-2.7.3.jar hk2-utils-2.4.0-b34.jar java-
+ xmlbuilder-1.1.jar javassist-3.18.1-GA.jar jersey-guava-2.22.2.jar ju
+ l-to-slf4j-1.7.16.jar protobuf-java-2.5.0.jar snappy-java-1.1.2.6.jar
+  RoaringBitmap-0.5.11.jar bonecp-0.8.0.RELEASE.jar commons-crypto-1.0
+ .0.jar commons-digester-1.8.jar curator-client-2.7.1.jar jackson-jaxr
+ s-1.9.13.jar jersey-client-2.22.2.jar jersey-common-2.22.2.jar jersey
+ -server-2.22.2.jar machinist_2.11-0.6.1.jar parquet-column-1.8.2.jar 
+ parquet-common-1.8.2.jar parquet-format-2.3.1.jar parquet-hadoop-1.8.
+ 2.jar scala-library-2.11.8.jar scala-reflect-2.11.8.jar scala-xml_2.1
+ 1-1.0.5.jar shapeless_2.11-2.3.2.jar slf4j-log4j12-1.7.16.jar spark-s
+ ql_2.11-2.3.0.jar stringtemplate-3.2.1.jar commons-logging-1.1.3.jar 
+ curator-recipes-2.7.1.jar hadoop-yarn-api-2.7.3.jar hive-cli-1.2.1.sp
+ ark2.jar hk2-locator-2.4.0-b34.jar javax.ws.rs-api-2.0.1.jar jcl-over
+ -slf4j-1.7.16.jar orc-core-1.4.1-nohive.jar parquet-jackson-1.8.2.jar
+  scala-compiler-2.11.8.jar spark-core_2.11-2.3.0.jar spark-hive_2.11-
+ 2.3.0.jar spark-repl_2.11-2.3.0.jar spark-tags_2.11-2.3.0.jar spark-y
+ arn_2.11-2.3.0.jar xbean-asm5-shaded-4.4.jar api-asn1-api-1.0.0-M20.j
+ ar commons-compiler-3.0.8.jar commons-compress-1.4.1.jar commons-http
+ client-3.1.jar hive-exec-1.2.1.spark2.jar hive-jdbc-1.2.1.spark2.jar 
+ javax.inject-2.4.0-b34.jar json4s-ast_2.11-3.2.11.jar kubernetes-mode
+ l-2.0.0.jar metrics-graphite-3.1.5.jar netty-all-4.1.17.Final.jar par
+ quet-encoding-1.8.2.jar spark-mesos_2.11-2.3.0.jar spark-mllib_2.11-2
+ .3.0.jar apacheds-i18n-2.0.0-M15.jar arpack_combined_all-0.1.jar comm
+ ons-beanutils-1.7.0.jar curator-framework-2.7.1.jar datanucleus-core-
+ 3.2.10.jar datanucleus-rdbms-3.2.9.jar jackson-core-asl-1.9.13.jar ja
+ vax.servlet-api-3.1.0.jar json4s-core_2.11-3.2.11.jar kubernetes-clie
+ nt-3.0.0.jar macro-compat_2.11-1.1.1.jar spark-graphx_2.11-2.3.0.jar 
+ spark-sketch_2.11-2.3.0.jar spark-unsafe_2.11-2.3.0.jar univocity-par
+ sers-2.5.9.jar hadoop-annotations-2.7.3.jar hadoop-yarn-client-2.7.3.
+ jar hadoop-yarn-common-2.7.3.jar jackson-databind-2.6.7.1.jar javax.a
+ nnotation-api-1.2.jar jersey-media-jaxb-2.22.2.jar spark-kvstore_2.11
+ -2.3.0.jar spire-macros_2.11-0.13.0.jar avro-mapred-1.7.7-hadoop2.jar
+  breeze-macros_2.11-0.13.2.jar commons-collections-3.2.2.jar commons-
+ configuration-1.6.jar datanucleus-api-jdo-3.2.6.jar hive-beeline-1.2.
+ 1.spark2.jar jackson-annotations-2.6.7.jar jackson-mapper-asl-1.9.13.
+ jar logging-interceptor-3.8.1.jar spark-catalyst_2.11-2.3.0.jar spark
+ -launcher_2.11-2.3.0.jar apache-log4j-extras-1.2.17.jar eigenbase-pro
+ perties-1.1.5.jar flatbuffers-1.2.0-3f79e055.jar json4s-jackson_2.11-
+ 3.2.11.jar orc-mapreduce-1.4.1-nohive.jar spark-streaming_2.11-2.3.0.
+ jar validation-api-1.1.0.Final.jar hive-metastore-1.2.1.spark2.jar me
+ sos-1.4.0-shaded-protobuf.jar osgi-resource-locator-1.0.1.jar parquet
+ -hadoop-bundle-1.6.0.jar spark-kubernetes_2.11-2.3.0.jar commons-bean
+ utils-core-1.8.0.jar htrace-core-3.1.0-incubating.jar spark-mllib-loc
+ al_2.11-2.3.0.jar calcite-core-1.2.0-incubating.jar jackson-dataforma
+ t-yaml-2.6.7.jar jackson-module-paranamer-2.7.9.jar calcite-linq4j-1.
+ 2.0-incubating.jar hadoop-yarn-server-common-2.7.3.jar jersey-contain
+ er-servlet-2.22.2.jar mysql-connector-java-5.1.45-bin.jar spark-netwo
+ rk-common_2.11-2.3.0.jar aopalliance-repackaged-2.4.0-b34.jar calcite
+ -avatica-1.2.0-incubating.jar spark-network-shuffle_2.11-2.3.0.jar ap
+ acheds-kerberos-codec-2.0.0-M15.jar hadoop-mapreduce-client-app-2.7.3
+ .jar jackson-module-scala_2.11-2.6.7.1.jar hadoop-mapreduce-client-co
+ re-2.7.3.jar hadoop-yarn-server-web-proxy-2.7.3.jar spark-hive-thrift
+ server_2.11-2.3.0.jar scala-parser-combinators_2.11-1.0.4.jar hadoop-
+ mapreduce-client-common-2.7.3.jar jersey-container-servlet-core-2.22.
+ 2.jar hadoop-mapreduce-client-shuffle-2.7.3.jar jackson-module-jaxb-a
+ nnotations-2.6.7.jar hadoop-mapreduce-client-jobclient-2.7.3.jar
+Main-Class: testLabeledPoint2
+
