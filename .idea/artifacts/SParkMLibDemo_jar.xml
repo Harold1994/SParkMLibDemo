@@ -8,8 +8,6 @@
         </element>
         <element id="module-output" name="SParkMLibDemo" />
       </element>
-      <element id="library" level="application" name="scala-sdk-2.12.51" />
-      <element id="library" level="project" name="jars" />
     </root>
   </artifact>
 </component>

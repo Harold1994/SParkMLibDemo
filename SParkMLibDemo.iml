@@ -7,7 +7,8 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="jars" level="project" />
     <orderEntry type="library" name="scala-sdk-2.12.51" level="application" />
+    <orderEntry type="library" name="jars1" level="project" />
+    <orderEntry type="library" name="scala-sdk-2.11.0" level="application" />
   </component>
 </module>
