@@ -1,4 +1,5 @@
-
+import org.apache.spark.ml.recommendation.ALS
+import org.apache.spark.{SparkConf, SparkContext}
 
 object CollaborativeFilter {
   def main(args: Array[String]): Unit = {
